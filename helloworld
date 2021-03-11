@@ -1,0 +1,7 @@
+public class Helloworld
+{//class starts
+public static void main(String[]args)
+{//main() starts
+System.out.println("Hello !");//prints hello !
+}//main() ends
+}//class ends
